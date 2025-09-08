@@ -1,2 +1,2 @@
 # independence-rx
-Independence RX is a repository for self-reliance and freedom. Information about finding ways out of debt and non-reliance on the modern world is what is served here.
+ndependence RX is a repository of information for self-reliance and freedom. Every step towards independence is a step in the right direction.
