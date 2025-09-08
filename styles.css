@@ -22,16 +22,18 @@ html {
   margin: 1rem 0;
 }
 
+
+/* make sure the links always look the same */
 nav a:link,
 nav a:visited {
   color: #333;   /* same color for visited and unvisited */
 }
 
+/* Hover effect on links */
 nav a:hover {
   color: #666;
 }
 
-footer {
-
-  align-items: center;
+.main-footer p {
+  text-align: center;
 }
