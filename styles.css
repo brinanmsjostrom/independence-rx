@@ -1,8 +1,15 @@
+
+
 /* makes all the headers center */
 header {
   text-align: center;
 }
 
+body {
+  background-color: #f437D00;  /* green */
+  margin: 0;                  /* remove default browser margin */
+  padding: 0;
+}
 
 .main-nav a:link,
 .main-nav a:visited {
