@@ -10,12 +10,3 @@ body {
   margin: 0;                  /* remove default browser margin */
   padding: 0;
 }
-
-.main-nav a:link,
-.main-nav a:visited {
-  color: #333;              /* same as normal link */
-}
-
-.main-nav a:hover {
-  color: #666;              /* subtle hover effect */
-}
