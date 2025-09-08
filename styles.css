@@ -8,3 +8,25 @@ header {
 html {
   background-color: #fdf6e3;  /* green */
 }
+.main-nav {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 2rem 0;
+}
+
+.main-nav a {
+  font-size: 2rem;
+  text-decoration: none;
+  color: #333;
+  margin: 1rem 0;
+}
+
+.main-nav a:link,
+.main-nav a:visited {
+  color: #333;   /* same color for visited and unvisited */
+}
+
+.main-nav a:hover {
+  color: #666;
+}
