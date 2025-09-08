@@ -30,3 +30,8 @@ nav a:visited {
 nav a:hover {
   color: #666;
 }
+
+.main-footer p {
+
+  align-items: center;
+}
